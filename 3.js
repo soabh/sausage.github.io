@@ -42,6 +42,7 @@ window.onload = () => {
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVapzVJdYvDotX6CmMYFk3RMXQ11FmRKiHgg&s" class="avatar" alt="頭像">
       <h1>我是王凱禾</h1>
       <p>我是一位熱愛 javascript與網頁設計的學生。</p>
+      <p>做一些可能有用的東西</p>
     `;
     app.appendChild(container);
   }
