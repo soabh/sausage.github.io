@@ -55,7 +55,7 @@ window.onload = () => {
       <ul>
         <li>python/Rust/JavaScript</li>
         <li>閱讀書籍，打手機，燒耳機</li>
-        <li>吃瓜，看幹片</li>
+        <li>吃瓜</li>
       </ul>
     `;
     app.appendChild(container);
