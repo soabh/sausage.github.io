@@ -278,7 +278,8 @@ window.onload = () => {
     container.innerHTML = `
     
       <ul>
-       
+            <li>打街霸</li>
+            <li>玩傳說帶一些小菜機上分</li>
       </ul>
     `;
     app.appendChild(container);
