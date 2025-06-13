@@ -1,7 +1,7 @@
 window.onload = () => {
   const app = document.getElementById("app");
 
-  const tabNames = ["關於我", "興趣", "聯絡方式","小遊戲","兄弟轉身"];
+  const tabNames = ["關於我", "興趣", "聯絡方式","小遊戲","好玩遊戲"];
   const renderFunctions = [renderAbout, renderSkills, renderContact,rendergame,renderbro];
 
   // 建立選單列
@@ -55,7 +55,7 @@ window.onload = () => {
       <ul>
         <li>python/Rust/JavaScript</li>
         <li>閱讀書籍，打手機，燒耳機</li>
-        <li>吃瓜</li>
+        <li>吃瓜，玩到紅溫</li>
       </ul>
     `;
     app.appendChild(container);
